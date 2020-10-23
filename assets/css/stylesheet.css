@@ -1,0 +1,55 @@
+.leftimage{
+    height: 175px;
+    width: 175px;
+    float: left;
+    margin-right: 10px;
+}
+.rightimage{
+    height: 150px;
+    width: 150px;
+    margin-top: 5px;
+}
+.background{
+    background-color: lightgrey;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.frontleftground{
+    margin-top: 30px;
+    margin-bottom: 60px;
+    padding: 10px 30px 5px;
+    color: black;
+    background-color: white;
+}
+.frontrightground{
+    height: 450px;
+    width: 350px;
+    padding: 10px 30px 40px;
+    color: black;
+    background-color: white;
+}
+.comparisonimage{
+    height: 350px;
+    width: 500px;
+    margin-top: 5px;
+}
+.comparisonimagetitle{
+    text-align: center;
+    color: rgb(40, 188, 214);
+    font-size: 15px;
+}
+.container .navbar-brand{
+    color: white; 
+    margin-left: 50px; 
+    padding: inherit; 
+    font-weight: bold; 
+    background-color: rgb(40, 188, 214);
+}
+.imagetitle{
+    text-align: left;
+    color: rgb(40, 188, 214);
+    font-size: 30px;   
+    background-color: white;
+} 
